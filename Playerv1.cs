@@ -10,7 +10,7 @@ public class Playerv1 : MonoBehaviour
     private const float LANE_DISTANCE =1.5f;
     private CharacterController controller;
     private float jumpForce = 6.0f;
-    private float gravity = 10.0f;
+    private float gravity = 12.0f;
     private float verticalVelocity;
     public float speed = 15f;
     public float normalspeed = 15.0f;
