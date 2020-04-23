@@ -12,7 +12,7 @@ public class Playerv1 : MonoBehaviour
     private float jumpForce = 6.0f;
     private float gravity = 12.0f;
     private float verticalVelocity;
-    public float speed = 15f;
+    public float speed = 100f;
     public float normalspeed = 15.0f;
     private int desiredLane = 1; // 0 = Left, 1 = Middle , 2 = Right
     private bool isDead = false;
